@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nagendra Singh</h1>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Nagendra+Singh+Kushwah;Building+Scalable+Web+Apps+🚀;Lifelong+Learner+%F0%9F%93%96" alt="Typing SVG" />
 </h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=FF5733&background=009900&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Nagendra+Singh+Kushwah;Building+Scalable+Web+Apps+🚀;Lifelong+Learner+%F0%9F%93%96" alt="Typing SVG" />
 </h1>
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/nagendra108/wave-animation/main/wave.svg" alt="Wave Animation" />
-</h1>
-
-
 
 
 <h3 align="center">A passionate .Net developer from India</h3>
