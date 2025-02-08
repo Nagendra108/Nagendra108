@@ -8,8 +8,9 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FFD700&background=000080&center=true&vCenter=true&width=700&height=70&lines=🌊+Hi+👋,+I'm+Nagendra+Singh+Kushwah;Passionate+.Net+Developer+From+India;Building+Scalable+Web+Apps+🚀;Lifelong+Learner+📖" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/nagendra108/wave-animation/main/wave.svg" alt="Wave Animation" />
 </h1>
+
 
 
 
