@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nagendra108](https://github.com/Nagendra108)
 
-- 💬 Ask me about **C#, ASP.Net Web-Forms, ASP.Net MVC**
+- 💬 Ask me about **C#, ASP.Net Web-Forms, ASP.Net MVC, SQL Server, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **nagendraskushwah10@gmail.com**
 
