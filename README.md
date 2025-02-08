@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **.Net MVC Projects**
 
-- 🌱 I’m currently learning **.Net Core MVC version 8 with**
+- 🌱 I’m currently learning **.Net Core MVC version 8 with along with EF Core and Web API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nagendra108](https://github.com/Nagendra108)
 
