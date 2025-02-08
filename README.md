@@ -7,6 +7,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=FF5733&background=009900&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Nagendra+Singh+Kushwah;Building+Scalable+Web+Apps+🚀;Lifelong+Learner+%F0%9F%93%96" alt="Typing SVG" />
 </h1>
 
+<h1 align="center">
+  <svg width="100%" height="80">
+    <text x="50%" y="50%" font-size="40" fill="gold" font-family="Fira Code, monospace" text-anchor="middle" dominant-baseline="middle">
+      <animate attributeName="y" values="40;60;40" dur="1.5s" repeatCount="indefinite" />
+      Hi 👋, I'm Nagendra Singh Kushwah
+    </text>
+  </svg>
+</h1>
+
+
 <h3 align="center">A passionate .Net developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendra108&label=Profile%20views&color=0e75b6&style=flat" alt="nagendra108" /> </p>
